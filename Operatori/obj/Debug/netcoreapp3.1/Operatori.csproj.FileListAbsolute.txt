@@ -1,0 +1,13 @@
+C:\Users\mijat\source\repos\Operatori\bin\Debug\netcoreapp3.1\Operatori.exe
+C:\Users\mijat\source\repos\Operatori\bin\Debug\netcoreapp3.1\Operatori.deps.json
+C:\Users\mijat\source\repos\Operatori\bin\Debug\netcoreapp3.1\Operatori.runtimeconfig.json
+C:\Users\mijat\source\repos\Operatori\bin\Debug\netcoreapp3.1\Operatori.runtimeconfig.dev.json
+C:\Users\mijat\source\repos\Operatori\bin\Debug\netcoreapp3.1\Operatori.dll
+C:\Users\mijat\source\repos\Operatori\bin\Debug\netcoreapp3.1\Operatori.pdb
+C:\Users\mijat\source\repos\Operatori\obj\Debug\netcoreapp3.1\Operatori.csprojAssemblyReference.cache
+C:\Users\mijat\source\repos\Operatori\obj\Debug\netcoreapp3.1\Operatori.csproj.CoreCompileInputs.cache
+C:\Users\mijat\source\repos\Operatori\obj\Debug\netcoreapp3.1\Operatori.AssemblyInfoInputs.cache
+C:\Users\mijat\source\repos\Operatori\obj\Debug\netcoreapp3.1\Operatori.AssemblyInfo.cs
+C:\Users\mijat\source\repos\Operatori\obj\Debug\netcoreapp3.1\Operatori.dll
+C:\Users\mijat\source\repos\Operatori\obj\Debug\netcoreapp3.1\Operatori.pdb
+C:\Users\mijat\source\repos\Operatori\obj\Debug\netcoreapp3.1\Operatori.genruntimeconfig.cache
