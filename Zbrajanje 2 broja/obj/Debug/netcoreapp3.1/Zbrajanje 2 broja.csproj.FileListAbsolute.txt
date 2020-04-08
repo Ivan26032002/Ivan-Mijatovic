@@ -1,0 +1,13 @@
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\bin\Debug\netcoreapp3.1\Zbrajanje 2 broja.exe
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\bin\Debug\netcoreapp3.1\Zbrajanje 2 broja.deps.json
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\bin\Debug\netcoreapp3.1\Zbrajanje 2 broja.runtimeconfig.json
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\bin\Debug\netcoreapp3.1\Zbrajanje 2 broja.runtimeconfig.dev.json
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\bin\Debug\netcoreapp3.1\Zbrajanje 2 broja.dll
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\bin\Debug\netcoreapp3.1\Zbrajanje 2 broja.pdb
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\obj\Debug\netcoreapp3.1\Zbrajanje 2 broja.csprojAssemblyReference.cache
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\obj\Debug\netcoreapp3.1\Zbrajanje 2 broja.csproj.CoreCompileInputs.cache
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\obj\Debug\netcoreapp3.1\Zbrajanje 2 broja.AssemblyInfoInputs.cache
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\obj\Debug\netcoreapp3.1\Zbrajanje 2 broja.AssemblyInfo.cs
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\obj\Debug\netcoreapp3.1\Zbrajanje 2 broja.dll
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\obj\Debug\netcoreapp3.1\Zbrajanje 2 broja.pdb
+C:\Users\mijat\source\repos\Zbrajanje 2 broja\obj\Debug\netcoreapp3.1\Zbrajanje 2 broja.genruntimeconfig.cache
