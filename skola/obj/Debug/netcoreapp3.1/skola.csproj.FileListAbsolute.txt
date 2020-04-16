@@ -1,0 +1,13 @@
+C:\Users\mijat\source\repos\skola\obj\Debug\netcoreapp3.1\skola.csprojAssemblyReference.cache
+C:\Users\mijat\source\repos\skola\obj\Debug\netcoreapp3.1\skola.csproj.CoreCompileInputs.cache
+C:\Users\mijat\source\repos\skola\obj\Debug\netcoreapp3.1\skola.AssemblyInfoInputs.cache
+C:\Users\mijat\source\repos\skola\obj\Debug\netcoreapp3.1\skola.AssemblyInfo.cs
+C:\Users\mijat\source\repos\skola\bin\Debug\netcoreapp3.1\skola.exe
+C:\Users\mijat\source\repos\skola\bin\Debug\netcoreapp3.1\skola.deps.json
+C:\Users\mijat\source\repos\skola\bin\Debug\netcoreapp3.1\skola.runtimeconfig.json
+C:\Users\mijat\source\repos\skola\bin\Debug\netcoreapp3.1\skola.runtimeconfig.dev.json
+C:\Users\mijat\source\repos\skola\bin\Debug\netcoreapp3.1\skola.dll
+C:\Users\mijat\source\repos\skola\bin\Debug\netcoreapp3.1\skola.pdb
+C:\Users\mijat\source\repos\skola\obj\Debug\netcoreapp3.1\skola.dll
+C:\Users\mijat\source\repos\skola\obj\Debug\netcoreapp3.1\skola.pdb
+C:\Users\mijat\source\repos\skola\obj\Debug\netcoreapp3.1\skola.genruntimeconfig.cache
